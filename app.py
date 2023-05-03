@@ -3,9 +3,15 @@ def main():
   print(f"Hello {name}!")
 
 def secti_dve_cisla(a, b):
+  '''
+  Tato funkce scita dve cisla.
+  '''
   return a + b
 
 def odecti_dve_cisla(a, b):
+  '''
+  Tato funkce odecita dve cisla.
+  '''
   return a - b
 
 def vydel_dve_cisla(a, b):
