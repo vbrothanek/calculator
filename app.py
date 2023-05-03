@@ -3,7 +3,10 @@ def main():
   print(f"Hello {name}!")
 
 def secti_dve_cisla(a, b):
-  return b + a
+  return a + b
+
+def odecti_dve_cisla(a, b):
+  return a - b
 
 if __name__ == "__main__":
   main()
