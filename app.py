@@ -1,4 +1,5 @@
 def main():
+  print("KUKU!")
   name  = input("Zadej svoje jmeno")
   print(f"Hello {name}!")
 
