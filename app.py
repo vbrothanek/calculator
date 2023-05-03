@@ -11,6 +11,9 @@ def odecti_dve_cisla(a, b):
 def vydel_dve_cisla(a, b):
   return a / b
 
+def vynasob_dve_cisla(a ,b):
+  return a * b
+
 if __name__ == "__main__":
   main()
   print("Zatim tomu rozumim :)")
