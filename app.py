@@ -20,4 +20,4 @@ if __name__ == "__main__":
   secti_dve_cisla(173, 11)
   odecti_dve_cisla(173, 11)
   vydel_dve_cisla(173, 11)
-
+  vynasob_dve_cisla(173, 11)
